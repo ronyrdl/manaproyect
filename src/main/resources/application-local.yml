@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ep-dawn-lab-awxr9j78-pooler.c-12.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+    username: neondb_owner
+    password: npg_pSE2P1uacvFL
+    driver-class-name: org.postgresql.Driver
